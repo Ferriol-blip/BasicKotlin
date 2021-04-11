@@ -1,4 +1,4 @@
-package oo
+package functions
 
 class Book(val author: String, val pubYear: Int) {
     private var borrowed: Boolean
